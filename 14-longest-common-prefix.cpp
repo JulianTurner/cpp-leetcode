@@ -16,6 +16,7 @@ public:
         }
 
         std::string result = "";
+    https: // leetcode.com/problems/buy-two-chocolates/
         for (int i = 0; i < strs[0].length(); i++)
         {
             for (int j = 1; j < strs.size(); j++)
